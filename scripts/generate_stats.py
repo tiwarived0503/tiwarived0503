@@ -152,7 +152,7 @@ for day in reversed(days):
     if day["date"] > str(today):
         continue
 
-    if day["contributionCount"] > 0:
+    if day["count"] > 0:
         current_streak += 1
     else:
         break
@@ -167,7 +167,7 @@ running_streak = 0
 
 for day in days:
 
-    if day["contributionCount"] > 0:
+    if day["count"] > 0:
         running_streak += 1
         longest_streak = max(
             longest_streak,
