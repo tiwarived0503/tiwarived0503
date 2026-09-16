@@ -26,7 +26,7 @@ jobs:
 
       - name: Check generated files
         run: |
-          ls -lh assets/github_stats.json
+          ls -lh assets/github_stats.json assets/github_stats.svg
 
       - name: Commit changes
         run: |
