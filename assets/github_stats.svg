@@ -1,108 +1,107 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
-<rect width="100%" height="100%" fill="white"/>
-<text x="35" y="45" font-size="18px" font-weight="700" font-family="monospace">GITHUB ACTIVITY</text>
-<text x="35" y="72" font-size="30px" font-weight="700" font-family="monospace">10 contributions</text>
-<polyline points="35.00,230.00 50.96,230.00 66.92,230.00 82.88,230.00 98.85,230.00 114.81,230.00 130.77,230.00 146.73,230.00 162.69,230.00 178.65,230.00 194.62,230.00 210.58,230.00 226.54,230.00 242.50,230.00 258.46,230.00 274.42,230.00 290.38,230.00 306.35,230.00 322.31,230.00 338.27,230.00 354.23,230.00 370.19,230.00 386.15,230.00 402.12,230.00 418.08,230.00 434.04,230.00 450.00,230.00 465.96,230.00 481.92,230.00 497.88,230.00 513.85,230.00 529.81,230.00 545.77,230.00 561.73,230.00 577.69,230.00 593.65,230.00 609.62,230.00 625.58,230.00 641.54,230.00 657.50,230.00 673.46,230.00 689.42,230.00 705.38,230.00 721.35,230.00 737.31,230.00 753.27,230.00 769.23,230.00 785.19,230.00 801.15,230.00 817.12,176.43 833.08,230.00 849.04,230.00 865.00,105.00" fill="none" stroke="black" stroke-width="2"/>
-<text x="35" y="275" font-size="13px" font-weight="700" font-family="monospace">CURRENT STREAK</text>
-<text x="35" y="305" font-size="25px" font-weight="700" font-family="monospace">2 days</text>
-<text x="300" y="275" font-size="13px" font-weight="700" font-family="monospace">LONGEST STREAK</text>
-<text x="300" y="305" font-size="25px" font-weight="700" font-family="monospace">2 days</text>
-<text x="35" y="355" font-size="13px" font-weight="700" font-family="monospace">TOP LANGUAGES</text>
-<text x="35" y="390" font-size="14px" font-weight="400" font-family="monospace">Python  100.0%</text>
-<text x="35" y="435" font-size="13px" font-weight="700" font-family="monospace">YEAR</text>
-<text x="95" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="103" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="111" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="119" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="127" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="135" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="143" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="151" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="159" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="167" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="175" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="183" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="191" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="199" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="207" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="215" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="223" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="231" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="239" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="247" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="255" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="263" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="271" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="279" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="287" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="295" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="303" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="311" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="319" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="327" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="335" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="343" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="351" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="359" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="367" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="375" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="383" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="391" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="399" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="407" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="415" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="423" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="431" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="439" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="447" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="455" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="463" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="471" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="479" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="487" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="495" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="503" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="511" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="519" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="527" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="535" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="543" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="551" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="559" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="567" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="575" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="583" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="591" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="599" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="607" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="615" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="623" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="631" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="639" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="647" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="655" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="663" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="671" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="679" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="687" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="695" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="703" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="711" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="719" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="727" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="735" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="743" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="751" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="759" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="767" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="775" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="783" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="791" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="799" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="807" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="815" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="823" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="831" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="839" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
-<text x="847" y="430" font-size="10px" font-weight="400" font-family="monospace"> </text>
+<text x="35" y="45" font-size="18px" font-weight="700" font-family="monospace" fill="#e6edf3">GITHUB ACTIVITY</text>
+<text x="35" y="72" font-size="30px" font-weight="700" font-family="monospace" fill="#e6edf3">14 contributions</text>
+<polyline points="35.00,230.00 50.96,230.00 66.92,230.00 82.88,230.00 98.85,230.00 114.81,230.00 130.77,230.00 146.73,230.00 162.69,230.00 178.65,230.00 194.62,230.00 210.58,230.00 226.54,230.00 242.50,230.00 258.46,230.00 274.42,230.00 290.38,230.00 306.35,230.00 322.31,230.00 338.27,230.00 354.23,230.00 370.19,230.00 386.15,230.00 402.12,230.00 418.08,230.00 434.04,230.00 450.00,230.00 465.96,230.00 481.92,230.00 497.88,230.00 513.85,230.00 529.81,230.00 545.77,230.00 561.73,230.00 577.69,230.00 593.65,230.00 609.62,230.00 625.58,230.00 641.54,230.00 657.50,230.00 673.46,230.00 689.42,230.00 705.38,230.00 721.35,230.00 737.31,230.00 753.27,230.00 769.23,230.00 785.19,230.00 801.15,230.00 817.12,195.91 833.08,230.00 849.04,230.00 865.00,105.00" fill="none" stroke="#00e5ff" stroke-width="2"/>
+<text x="35" y="275" font-size="13px" font-weight="700" font-family="monospace" fill="#e6edf3">CURRENT STREAK</text>
+<text x="35" y="305" font-size="25px" font-weight="700" font-family="monospace" fill="#e6edf3">2 days</text>
+<text x="300" y="275" font-size="13px" font-weight="700" font-family="monospace" fill="#e6edf3">LONGEST STREAK</text>
+<text x="300" y="305" font-size="25px" font-weight="700" font-family="monospace" fill="#e6edf3">2 days</text>
+<text x="35" y="355" font-size="13px" font-weight="700" font-family="monospace" fill="#e6edf3">TOP LANGUAGES</text>
+<text x="35" y="390" font-size="14px" font-weight="400" font-family="monospace" fill="#e6edf3">Python  100.0%</text>
+<text x="35" y="435" font-size="13px" font-weight="700" font-family="monospace" fill="#e6edf3">YEAR</text>
+<text x="95" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="103" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="111" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="119" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="127" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="135" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="143" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="151" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="159" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="167" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="175" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="183" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="191" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="199" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="207" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="215" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="223" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="231" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="239" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="247" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="255" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="263" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="271" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="279" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="287" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="295" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="303" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="311" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="319" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="327" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="335" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="343" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="351" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="359" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="367" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="375" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="383" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="391" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="399" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="407" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="415" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="423" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="431" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="439" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="447" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="455" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="463" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="471" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="479" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="487" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="495" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="503" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="511" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="519" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="527" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="535" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="543" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="551" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="559" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="567" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="575" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="583" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="591" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="599" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="607" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="615" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="623" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="631" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="639" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="647" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="655" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="663" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="671" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="679" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="687" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="695" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="703" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="711" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="719" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="727" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="735" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="743" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="751" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="759" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="767" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="775" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="783" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="791" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="799" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="807" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="815" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="823" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="831" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="839" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
+<text x="847" y="430" font-size="10px" font-weight="400" font-family="monospace" fill="#e6edf3"> </text>
 </svg>
