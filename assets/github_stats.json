@@ -1,9 +1,9 @@
 {
   "username": "tiwarived0503",
   "name": "Ved Amit Tiwari",
-  "total_contributions": 8,
-  "current_streak": 0,
-  "longest_streak": 1,
+  "total_contributions": 10,
+  "current_streak": 2,
+  "longest_streak": 2,
   "weekly_totals": [
     0,
     0,
@@ -57,7 +57,13 @@
     3,
     0,
     0,
-    5
+    7
+  ],
+  "top_languages": [
+    {
+      "name": "Python",
+      "bytes": 15762
+    }
   ],
   "days": [
     {
@@ -1518,7 +1524,7 @@
     },
     {
       "date": "2026-09-16",
-      "count": 0
+      "count": 2
     }
   ]
 }
