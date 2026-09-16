@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tiwarived0503/tiwarived0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/portrait.svg" width="460">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 Hey, I'm Tiwarived
+
+Welcome to my GitHub profile.
+
+I'm exploring technology, building projects, and learning by creating.
+
+---
+
+## 📊 GitHub Activity
+
+<img src="assets/github_stats.svg" width="900">
+
+---
+
+<div align="center">
+
+<samp>Thanks for stopping by 🚀</samp>
+
+</div>
