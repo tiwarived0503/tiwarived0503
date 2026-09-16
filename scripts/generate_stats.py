@@ -307,7 +307,7 @@ def svg_text(
         f'<text x="{x}" y="{y}" '
         f'font-size="{size}px" '
         f'font-weight="{weight}" '
-        f'font-family="monospace">'
+        f'font-family="monospace" fill="#e6edf3">'
         f'{esc(text)}'
         f'</text>'
     )
@@ -329,7 +329,7 @@ svg.append(
 )
 
 svg.append(
-    '<rect width="100%" height="100%" fill="white"/>'
+
 )
 
 
@@ -394,7 +394,7 @@ svg.append(
     '<polyline '
     f'points="{" ".join(points)}" '
     'fill="none" '
-    'stroke="black" '
+    'stroke="#00e5ff" '
     'stroke-width="2"/>'
 )
 
