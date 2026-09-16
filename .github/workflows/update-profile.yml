@@ -33,7 +33,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/github_stats.json
+          git add assets/github_stats.json assets/github_stats.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
