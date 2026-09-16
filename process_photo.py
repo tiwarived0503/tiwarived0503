@@ -47,19 +47,20 @@ svg.append(
     f'viewBox="0 0 {svg_width} {svg_height}">'
 )
 
-# White background
-svg.append(
-    '<rect width="100%" height="100%" fill="white"/>'
-)
-
 # ============================================================
 # ANIMATION CLIPS
 # ============================================================
 
 svg.append("<defs>")
 
-for i in range(rows):
+svg.append(
+    '<linearGradient id="asciiGradient" x1="0%" y1="0%" x2="100%" y2="0%">'
+    '<stop offset="0%" stop-color="#00e5ff"/>'
+    '<stop offset="100%" stop-color="#a855f7"/>'
+    '</linearGradient>'
+)
 
+for i in range(rows):
     y = i * char_height
 
     svg.append(
@@ -89,7 +90,7 @@ svg.append(
     'font-family="Courier New, Liberation Mono, DejaVu Sans Mono, monospace" '
     f'font-size="{font_size}px" '
     'font-weight="400" '
-    'fill="black" '
+    'fill="url(#asciiGradient)" '
     'xml:space="preserve">'
 )
 
