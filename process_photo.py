@@ -1,4 +1,5 @@
 from html import escape
+import base64
 
 # ============================================================
 # ASCII → ANIMATED SVG
@@ -52,6 +53,19 @@ svg.append(
 # ============================================================
 
 svg.append("<defs>")
+with open("ramp.woff2", "rb") as font_file:
+    font_data = base64.b64encode(font_file.read()).decode("ascii")
+
+svg.append(
+    '<style>'
+    '@font-face{'
+    'font-family:"JetBrains Mono";'
+    'src:url(data:font/woff2;base64,' + font_data + ') format("woff2");'
+    'font-weight:400;'
+    'font-style:normal;'
+    '}'
+    '</style>'
+)
 
 svg.append(
     '<linearGradient id="asciiGradient" x1="0%" y1="0%" x2="100%" y2="0%">'
@@ -87,7 +101,7 @@ svg.append("</defs>")
 
 svg.append(
     '<g '
-    'font-family="Courier New, Liberation Mono, DejaVu Sans Mono, monospace" '
+    'font-family="JetBrains Mono, monospace" '
     f'font-size="{font_size}px" '
     'font-weight="400" '
     'fill="url(#asciiGradient)" '
